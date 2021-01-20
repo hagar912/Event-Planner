@@ -1,0 +1,88 @@
+#im
+{
+  max-width:70%;
+  max-height: 100%;
+  border-radius: 50%;
+  margin-left: 25px;
+  margin-top: 5px;
+
+}
+.dv
+{
+    background-color:#EB7375;
+    border:10px;
+    border-color: #EB7375;
+    color: #EB7375;
+    height: 220px;
+    width: 170px;
+    border-radius: 20px;
+    margin: 30px 30px 40px 2px;
+
+}
+.li
+{
+    color:rgb(112, 112, 112 );
+    text-decoration-line: none;
+}
+.li:hover
+{
+    color:rgb(112, 112, 112 );
+    text-decoration-line: none;
+}
+.li:active
+{
+    color: #EB7375;
+    text-decoration-line: underline;
+}
+#k
+{
+  width: 150px;
+  border-radius: 50%;
+  margin-left: 80px;
+  padding: 3px;
+  
+}
+#ai
+{
+    color: #EB7375;
+    border-color: transparent;
+    text-decoration-line: underline;
+}
+
+h4{
+    color: #EB7375;
+}
+p{
+    color: #EB7375;
+}
+
+#mg {
+    width: 50%;
+    height: 125px;
+    margin-top: 10px ;
+    margin-left: 60px;
+}
+.card
+{
+    border-radius: 15px;
+    width: 100px;
+   border-color: #EB7375;
+   
+}
+#active
+{
+    color: #EB7375;
+}
+#list
+{
+    margin: auto
+}
+.container
+{
+    padding: 15px;
+}
+.container .row
+{
+    border-bottom-color: rgb(112, 112, 112);
+    border-bottom-width: 3px;
+}
